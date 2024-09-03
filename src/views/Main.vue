@@ -7,7 +7,7 @@
       <div class="header4"></div>
     </div>
     <div class="middle">
-      这是middle
+      这是middle 修改测试
     </div>
     <div class="footer">
       <div class="left-footer"></div>
